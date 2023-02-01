@@ -1,3 +1,4 @@
+package com.github.marcostulio;
 
 import java.awt.Color;
 import java.awt.Dimension;
@@ -50,7 +51,7 @@ public class PaintFrame extends JPanel implements Runnable {
             try {
                 repaint();
                 sleep(1000 / speed);
-                System.out.println(1000 / speed);
+                
                 //Verificar se a animação está rodando
                 if (!excAnimation) {
                     //Verificar se Snake colidiu com ela mesmo
