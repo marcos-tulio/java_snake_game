@@ -1,4 +1,4 @@
-# java Snake Game
+# Java Snake Game
 Este repositório contém o projeto de um Snake Game (jogo da cobrinha) codificado em JAVA. 
  
 ## Comandos
